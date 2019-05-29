@@ -32,7 +32,8 @@
   },
   "dependencies": {
     "@mapbox/polyline": "^1.1.0",
-    "query-string": "^6.5.0",
-    "ajv": "^6.10.0"
+    "ajv": "^6.10.0",
+    "geolib": "^3.0.3",
+    "query-string": "^6.5.0"
   }
 }
